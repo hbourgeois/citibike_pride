@@ -1,0 +1,9 @@
+# Citi Bike Analysis Report
+
+Observation 1: The top station for usage was University Place & E 14th St. Hypothesis: This station's high usage is likely due to its location midway between the start and end points of the NYC Pride parade, placing it in the heart of the festivities.
+
+Observation 2: Yankee Ferry Terminal was an outlier in terms of usage. Its popularity during both years can be attributed to the Yankees playing at home all three days during Pride; in 2023, they played against the Astros, and in 2024, they played against Toronto.
+
+Observation 3: Usage spikes were consistent with typical workday hours.
+
+Observation 4: Traditional bikes had specific hot spots, while e-bikes were more widely used across the city.
